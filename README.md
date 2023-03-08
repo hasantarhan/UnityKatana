@@ -1,4 +1,3 @@
-# UnityKatana simple game prototype template
 
 # What does it contain?
   - Simple event based game controlling system
