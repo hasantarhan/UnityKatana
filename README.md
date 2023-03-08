@@ -5,7 +5,7 @@ What does it contain?
   - Level Loading system
   - Scriptable object based upgrade system
   - Basic UI system - main menu, in game, win, lose
-  - PlayerPrefs based Data managment
+  - PlayerPrefs based data managment
   - Event based currency managment
   - Basic ease curves
   - Some helper classes, methods
