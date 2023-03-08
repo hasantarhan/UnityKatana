@@ -1,6 +1,6 @@
 # UnityKatana simple game prototype template
 
-What does it contain?
+# What does it contain?
   - Simple event based game controlling system
   - Level Loading system
   - Scriptable object based upgrade system
@@ -10,7 +10,7 @@ What does it contain?
   - Basic ease curves
   - Some helper classes, methods
 
-ThirdParty assets / Credit:
+# Third party assets / Credits:
 
 - UIEffect https://github.com/mob-sakai/UIEffect
 - LeanTouch https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111
