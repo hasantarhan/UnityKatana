@@ -2,13 +2,13 @@
 
 # What does it contain?
   - Simple event based game controlling system
-  - Level Loading system
+  - Level loading system
   - Scriptable object based upgrade system
   - Basic UI system - main menu, in game, win, lose
   - PlayerPrefs based data managment
   - Event based currency managment
   - Basic ease curves
-  - Some helper classes, methods
+  - Some helper classes, methods and tools
 
 # Third party assets / Credits:
 
