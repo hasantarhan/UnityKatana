@@ -4,6 +4,7 @@ What does it contain?
   - Simple event based state system in GameController.cs
   - Level Loading system LevelLoader.cs
   - Upgrade System, scriptable object based
+  - Basic UI system - main menu, in game, win, lose
   - Simple data manager, PlayerPrefs based
   - Event based currency managment
   - Basic ease curves
