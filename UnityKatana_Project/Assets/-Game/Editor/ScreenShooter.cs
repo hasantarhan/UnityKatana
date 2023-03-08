@@ -187,7 +187,7 @@ namespace MultiScreenshotCaptureNamespace
 
 		private readonly List<CustomResolution> queuedScreenshots = new List<CustomResolution>();
 
-		[MenuItem( "Foxy/Multi Screenshot Capture" )]
+		[MenuItem( "Katana/Multi Screenshot Capture" )]
 		private static void Init()
 		{
 			MultiScreenshotCapture window = GetWindow<MultiScreenshotCapture>();

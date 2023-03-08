@@ -5,8 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using Codice.CM.Common.Tree;
-using Foxy;
-using Foxy.Editor;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
@@ -15,9 +13,9 @@ using Object = UnityEngine.Object;
 namespace UnityToolbarExtender
 {
     [InitializeOnLoad]
-    public class FoxyToolBar : MonoBehaviour
+    public class KatanaToolBar : MonoBehaviour
     {
-        static FoxyToolBar()
+        static KatanaToolBar()
         {
             ToolbarExtender.LeftToolbarGUI.Add(OnToolbarGUILeft);
             ToolbarExtender.RightToolbarGUI.Add(OnToolbarGUIRight);

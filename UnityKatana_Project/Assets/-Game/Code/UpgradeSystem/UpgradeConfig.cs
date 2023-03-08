@@ -11,7 +11,7 @@ namespace _Game.Code.Base
         Speed
     }
 
-    [CreateAssetMenu(fileName = "Upgrade Config", menuName = "Foxy/Upgrade Config", order = 0)]
+    [CreateAssetMenu(fileName = "Upgrade Config", menuName = "Katana/Upgrade Config", order = 0)]
     public class UpgradeConfig : ScriptableObject
     {
         public UpgradeType upgradeType;

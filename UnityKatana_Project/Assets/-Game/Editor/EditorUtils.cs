@@ -1,11 +1,11 @@
 using UnityEditor;
 
-namespace Foxy.Editor
+namespace Katana.Editor
 {
     [InitializeOnLoad]
     public static class EditorUtils
     {
-        private const string MENU_NAME = "Foxy/Fast Play Mode";
+        private const string MENU_NAME = "Katana/Fast Play Mode";
 
         private static bool enabled_;
 
